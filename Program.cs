@@ -20,4 +20,12 @@ int max = Math.Max(Math.Max(n3, n4), n5);
 Console.WriteLine(max);
 
 // Третья задача
+int n6 = System.Int32.Parse(Console.ReadLine());
 
+if (n6 % 2 == 0) {
+    Console.WriteLine("Четное");
+} else {
+    Console.WriteLine("Нечетное");
+}
+
+//
