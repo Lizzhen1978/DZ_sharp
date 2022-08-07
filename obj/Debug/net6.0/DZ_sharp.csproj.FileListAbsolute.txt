@@ -1,0 +1,15 @@
+/home/elizaveta/Рабочий стол/DZ_sharp/bin/Debug/net6.0/DZ_sharp
+/home/elizaveta/Рабочий стол/DZ_sharp/bin/Debug/net6.0/DZ_sharp.deps.json
+/home/elizaveta/Рабочий стол/DZ_sharp/bin/Debug/net6.0/DZ_sharp.runtimeconfig.json
+/home/elizaveta/Рабочий стол/DZ_sharp/bin/Debug/net6.0/DZ_sharp.dll
+/home/elizaveta/Рабочий стол/DZ_sharp/bin/Debug/net6.0/ref/DZ_sharp.dll
+/home/elizaveta/Рабочий стол/DZ_sharp/bin/Debug/net6.0/DZ_sharp.pdb
+/home/elizaveta/Рабочий стол/DZ_sharp/obj/Debug/net6.0/DZ_sharp.csproj.AssemblyReference.cache
+/home/elizaveta/Рабочий стол/DZ_sharp/obj/Debug/net6.0/DZ_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/elizaveta/Рабочий стол/DZ_sharp/obj/Debug/net6.0/DZ_sharp.AssemblyInfoInputs.cache
+/home/elizaveta/Рабочий стол/DZ_sharp/obj/Debug/net6.0/DZ_sharp.AssemblyInfo.cs
+/home/elizaveta/Рабочий стол/DZ_sharp/obj/Debug/net6.0/DZ_sharp.csproj.CoreCompileInputs.cache
+/home/elizaveta/Рабочий стол/DZ_sharp/obj/Debug/net6.0/DZ_sharp.dll
+/home/elizaveta/Рабочий стол/DZ_sharp/obj/Debug/net6.0/ref/DZ_sharp.dll
+/home/elizaveta/Рабочий стол/DZ_sharp/obj/Debug/net6.0/DZ_sharp.pdb
+/home/elizaveta/Рабочий стол/DZ_sharp/obj/Debug/net6.0/DZ_sharp.genruntimeconfig.cache
