@@ -28,4 +28,10 @@ if (n6 % 2 == 0) {
     Console.WriteLine("Нечетное");
 }
 
-//
+// Четвертая задача
+int n7 = System.Int32.Parse(Console.ReadLine());
+
+for (int i = 2; i < n7; i++) {
+    if (i % 2 == 0)
+        Console.WriteLine(i);
+}
